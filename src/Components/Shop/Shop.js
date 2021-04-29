@@ -1,5 +1,5 @@
 import React from 'react';
-import fakeData from '../fakeData';
+import fakeData from '../../fakeData';
 import { useState } from 'react';
 import './Shop.css'
 
@@ -20,7 +20,7 @@ const Shop = () => {
                 </ul>
             </div>
             <div className="cart_container">
-                <h3>Thsi is cart Area</h3>
+                <h3>This is cart Area</h3>
             </div>
 
 
